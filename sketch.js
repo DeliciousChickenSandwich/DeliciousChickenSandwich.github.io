@@ -5,7 +5,7 @@ function setup() {
 var x = 0;
 
 function draw() {
-  stroke(0,255,0);
+  stroke(255,0,0);
   fill(60,60,x);
   ellipse(mouseX,mouseY,700,50);
   var offset = random(1);
