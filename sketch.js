@@ -6,7 +6,7 @@ var x = 0;
 
 function draw() {
   stroke(0,50,0);
-  fill(0,0,x);
+  fill(0,0,50);
   rect(mouseX,mouseY,3,3);
   x = x + 10;
   if(x > 255) {
