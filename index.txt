@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> mama thing </title>
+</head>
+<body>
+<p><i> This is mamas website thing </i> </p>
+</body>
+</html>
